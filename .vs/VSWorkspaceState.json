@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\RefactorThis.Domain",
+    "\\RefactorThis.Domain.Tests",
+    "\\RefactorThis.Persistence"
+  ],
+  "SelectedNode": "\\RefactorThis.Domain\\InvoiceService.cs",
+  "PreviewInSolutionExplorer": false
+}
